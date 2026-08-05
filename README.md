@@ -1,8 +1,6 @@
 
 ### Olá, sou o Lucas Zonzini 👋😁
 
-Olá, prazer, me chamo Lucas!
-
 Em 2020, no auge da pandemia, decidi usar meu tempo para aprender algo novo. Sempre amei jogos e então decidi eu mesmo fazer um. No começo achei a programação algo surreal e complexo demais para mim, mas não desisti. Passava o dia todo na frente do computador estudando e tentando assimilar o que estava acontecendo. E cada passo era sempre uma conquista gigante! Lembro quando fiz meu primeiro Flappy Bird, lembro de passar horas ou até dias pensando em como fazer uma feature ou resolver um bug. Na verdade, essa era a melhor parte: ficar sempre com aquilo na cabeça, pensando por horas na solução até que ela finalmente chegava como uma luz brilhante! E talvez tenha sido exatamente isso que me fez ser tão apaixonado pela programação, essa dificuldade e esse esforço em querer resolver ou criar algo do zero. Isso mudou minha personalidade, me mostrou partes de mim.
 Mas então chegaram as IAs, e hoje até mesmo eu, que gostava de passar horas tentando resolver algo, em poucos minutos desisto e pergunto a um agente de IA... O que sinto sobre isso? Sinceramente, uma decepção profunda. É nítido como meus códigos antes eram incríveis, complexos e muito bem pensados, e nenhum deles foi feito ou ajudado por uma IA, hoje eu olho para eles e pouco entendo como cheguei naquele ponto. E isso me frustra, muito...
 Parece que a programação hoje está quebrada, a coisa mais valiosa dela simplesmente perdeu valor, morreu... E isso está me deixando extremamente decepcionado com essa carreira, com o futuro desse sonho... Afinal, se não serei eu quem vai pensar e resolver os problemas, o que estou fazendo aqui?
