@@ -1,7 +1,15 @@
 
 ### Olá, sou o Lucas Zonzini 👋😁
 
-Em 2020, despertei uma intensa curiosidade em explorar a criação de jogos de computador. Desde então, tenho dedicado meu tempo incessantemente para aprimorar minhas habilidades na arte da programação. A busca constante pelo conhecimento tornou-se uma parte essencial do meu percurso, levando-me a absorver tudo relacionado a novas linguagens, APIs, bibliotecas, sistemas e muito mais. Até o presente momento, meu deleite consiste em utilizar meu tempo livre para programar e desenvolver meus próprios jogos. Meu grande sonho é transformar essa paixão em uma carreira concreta, trabalhando com códigos e contribuindo para a indústria de desenvolvimento de sistemas.
+Olá, prazer, me chamo Lucas!
+
+Em 2020, no auge da pandemia, decidi usar meu tempo para aprender algo novo. Sempre amei jogos e então decidi eu mesmo fazer um. No começo achei a programação algo surreal e complexo demais para mim, mas não desisti. Passava o dia todo na frente do computador estudando e tentando assimilar o que estava acontecendo. E cada passo era sempre uma conquista gigante! Lembro quando fiz meu primeiro Flappy Bird, lembro de passar horas ou até dias pensando em como fazer uma feature ou resolver um bug. Na verdade, essa era a melhor parte: ficar sempre com aquilo na cabeça, pensando por horas na solução até que ela finalmente chegava como uma luz brilhante! E talvez tenha sido exatamente isso que me fez ser tão apaixonado pela programação, essa dificuldade e esse esforço em querer resolver ou criar algo do zero. Isso mudou minha personalidade, me mostrou partes de mim.
+Mas então chegaram as IAs, e hoje até mesmo eu, que gostava de passar horas tentando resolver algo, em poucos minutos desisto e pergunto a um agente de IA... O que sinto sobre isso? Sinceramente, uma decepção profunda. É nítido como meus códigos antes eram incríveis, complexos e muito bem pensados, e nenhum deles foi feito ou ajudado por uma IA, hoje eu olho para eles e pouco entendo como cheguei naquele ponto. E isso me frustra, muito...
+Parece que a programação hoje está quebrada, a coisa mais valiosa dela simplesmente perdeu valor, morreu... E isso está me deixando extremamente decepcionado com essa carreira, com o futuro desse sonho... Afinal, se não serei eu quem vai pensar e resolver os problemas, o que estou fazendo aqui?
+E o pior é que isso não é só na programação, essas ferramentas estão nos tirando a capacidade de pensar por nós mesmos. A dependência está cada vez mais forte, e muitas vezes fazemos perguntas simples sem perceber, e quando nos damos conta, estamos perguntando a um agente, e mais uma vez terceirizando nossa capacidade de pensar.
+Isso é um desabafo. Não sei se seguirei com essa carreira, certamente ainda vou continuar desenvolvendo meus jogos e sistemas para mim mesmo, mas talvez nunca aceite que uma máquina faça isso por mim.
+
+"Uma laranjeira prefere morrer a produzir limões."
 
 [![SiteMe](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://luzonnidev.vercel.app/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucaszonzini_/)
